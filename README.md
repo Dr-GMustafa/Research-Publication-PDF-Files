@@ -210,3 +210,14 @@ year  = {2025},
 publisher = {Taru Publications},
 doi = {10.47974/CJSIM-2024-11007}
 }
+
+@article{mustafa2026interpretable,
+  title={Interpretable genetic programming with SHAP-guided multi-objective optimization for scientific impact modeling},
+  author={Mustafa, Ghulam and Khattak, Muhammad Saeed and Ishfaq, Sidra and Afzal, Muhammad Tanvir and Mahmood, Qamar and Khalid, Yasir Noman},
+  journal={Evolutionary Intelligence},
+  volume={19},
+  number={1},
+  pages={14},
+  year={2026},
+  publisher={Springer}
+}
